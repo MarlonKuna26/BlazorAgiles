@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1EAB02-82E1-4331-B2B0-81E42F0BB02C}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AA1EAB02-82E1-4331-B2B0-81E42F0BB02C}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84CF3AB-C17F-412C-B965-F65DC32DD418}|BlazorAplicacionAgiles.Infrastructure\\BlazorAplicacionAgiles.Infrastructure.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.infrastructure\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84CF3AB-C17F-412C-B965-F65DC32DD418}|BlazorAplicacionAgiles.Infrastructure\\BlazorAplicacionAgiles.Infrastructure.csproj|solutionrelative:blazoraplicacionagiles.infrastructure\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\pages\\productos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\pages\\productos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCFC720-28A2-46DB-BAD8-5A61F0E516FA}|BlazorAplicacionAgiles.Domain\\BlazorAplicacionAgiles.Domain.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCFC720-28A2-46DB-BAD8-5A61F0E516FA}|BlazorAplicacionAgiles.Domain\\BlazorAplicacionAgiles.Domain.csproj|solutionrelative:blazoraplicacionagiles.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1EAB02-82E1-4331-B2B0-81E42F0BB02C}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1EAB02-82E1-4331-B2B0-81E42F0BB02C}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A135E7-8CDB-4F01-99FA-6B61DC3D47D1}|BlazorAplicacionAgiles.Application\\BlazorAplicacionAgiles.Application.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.application\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A135E7-8CDB-4F01-99FA-6B61DC3D47D1}|BlazorAplicacionAgiles.Application\\BlazorAplicacionAgiles.Application.csproj|solutionrelative:blazoraplicacionagiles.application\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A135E7-8CDB-4F01-99FA-6B61DC3D47D1}|BlazorAplicacionAgiles.Application\\BlazorAplicacionAgiles.Application.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A135E7-8CDB-4F01-99FA-6B61DC3D47D1}|BlazorAplicacionAgiles.Application\\BlazorAplicacionAgiles.Application.csproj|solutionrelative:blazoraplicacionagiles.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1EAB02-82E1-4331-B2B0-81E42F0BB02C}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA1EAB02-82E1-4331-B2B0-81E42F0BB02C}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1EAB02-82E1-4331-B2B0-81E42F0BB02C}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA1EAB02-82E1-4331-B2B0-81E42F0BB02C}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\pages\\tutorial.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\pages\\tutorial.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1EAB02-82E1-4331-B2B0-81E42F0BB02C}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA1EAB02-82E1-4331-B2B0-81E42F0BB02C}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1AF499-E691-44A5-865C-039726027B6D}|BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\BlazorAplicacionAgiles.UI.Client.csproj|solutionrelative:blazoraplicacionagiles.ui\\blazoraplicacionagiles.ui.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84CF3AB-C17F-412C-B965-F65DC32DD418}|BlazorAplicacionAgiles.Infrastructure\\BlazorAplicacionAgiles.Infrastructure.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.infrastructure\\blazoraplicacionagiles.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A84CF3AB-C17F-412C-B965-F65DC32DD418}|BlazorAplicacionAgiles.Infrastructure\\BlazorAplicacionAgiles.Infrastructure.csproj|solutionrelative:blazoraplicacionagiles.infrastructure\\blazoraplicacionagiles.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A135E7-8CDB-4F01-99FA-6B61DC3D47D1}|BlazorAplicacionAgiles.Application\\BlazorAplicacionAgiles.Application.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.application\\blazoraplicacionagiles.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96A135E7-8CDB-4F01-99FA-6B61DC3D47D1}|BlazorAplicacionAgiles.Application\\BlazorAplicacionAgiles.Application.csproj|solutionrelative:blazoraplicacionagiles.application\\blazoraplicacionagiles.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCFC720-28A2-46DB-BAD8-5A61F0E516FA}|BlazorAplicacionAgiles.Domain\\BlazorAplicacionAgiles.Domain.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.domain\\blazoraplicacionagiles.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BCFC720-28A2-46DB-BAD8-5A61F0E516FA}|BlazorAplicacionAgiles.Domain\\BlazorAplicacionAgiles.Domain.csproj|solutionrelative:blazoraplicacionagiles.domain\\blazoraplicacionagiles.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84CF3AB-C17F-412C-B965-F65DC32DD418}|BlazorAplicacionAgiles.Infrastructure\\BlazorAplicacionAgiles.Infrastructure.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84CF3AB-C17F-412C-B965-F65DC32DD418}|BlazorAplicacionAgiles.Infrastructure\\BlazorAplicacionAgiles.Infrastructure.csproj|solutionrelative:blazoraplicacionagiles.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCFC720-28A2-46DB-BAD8-5A61F0E516FA}|BlazorAplicacionAgiles.Domain\\BlazorAplicacionAgiles.Domain.csproj|c:\\users\\marlon\\source\\repos\\blazoraplicacionagiles\\blazoraplicacionagiles.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCFC720-28A2-46DB-BAD8-5A61F0E516FA}|BlazorAplicacionAgiles.Domain\\BlazorAplicacionAgiles.Domain.csproj|solutionrelative:blazoraplicacionagiles.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\wwwroot\\app.css",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-21T18:36:20.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:32:44.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:30:15.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Program.cs",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:06:13.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Application\\Interfaces\\IProductoService.cs",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.Application\\Interfaces\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Application\\Interfaces\\IProductoService.cs",
+              "RelativeToolTip": "BlazorAplicacionAgiles.Application\\Interfaces\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:18:02.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "BlazorAplicacionAgiles.Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:16:13.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Application\\Class1.cs",
+              "RelativeToolTip": "BlazorAplicacionAgiles.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:55:26.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.razor",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Productos.razor",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Productos.razor",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Productos.razor",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Productos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T16:39:58.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Infrastructure\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.Infrastructure\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Infrastructure\\Services\\ProductoService.cs",
+              "RelativeToolTip": "BlazorAplicacionAgiles.Infrastructure\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:31:14.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:27:30.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T16:48:10.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Program.cs",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:38:57.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tutorial.razor",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Tutorial.razor",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Tutorial.razor",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Tutorial.razor",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\Pages\\Tutorial.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:18:13.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\_Imports.razor",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI.Client\\_Imports.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:19:28.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorAplicacionAgiles.UI\\BlazorAplicacionAgiles.UI\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:30:27.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlazorAplicacionAgiles.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Infrastructure\\BlazorAplicacionAgiles.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.Infrastructure\\BlazorAplicacionAgiles.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Infrastructure\\BlazorAplicacionAgiles.Infrastructure.csproj",
+              "RelativeToolTip": "BlazorAplicacionAgiles.Infrastructure\\BlazorAplicacionAgiles.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T16:30:47.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlazorAplicacionAgiles.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Application\\BlazorAplicacionAgiles.Application.csproj",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.Application\\BlazorAplicacionAgiles.Application.csproj",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Application\\BlazorAplicacionAgiles.Application.csproj",
+              "RelativeToolTip": "BlazorAplicacionAgiles.Application\\BlazorAplicacionAgiles.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T16:17:18.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlazorAplicacionAgiles.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Domain\\BlazorAplicacionAgiles.Domain.csproj",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.Domain\\BlazorAplicacionAgiles.Domain.csproj",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Domain\\BlazorAplicacionAgiles.Domain.csproj",
+              "RelativeToolTip": "BlazorAplicacionAgiles.Domain\\BlazorAplicacionAgiles.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T16:13:42.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "BlazorAplicacionAgiles.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:55:43.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "BlazorAplicacionAgiles.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\MARLON\\source\\repos\\BlazorAplicacionAgiles\\BlazorAplicacionAgiles.Domain\\Class1.cs",
+              "RelativeToolTip": "BlazorAplicacionAgiles.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:53:50.035Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

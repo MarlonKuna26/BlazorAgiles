@@ -1,0 +1,49 @@
+﻿@using BlazorAplicacionAgiles.Application.Interfaces
+@using BlazorAplicacionAgiles.Domain.Entities
+
+
+@page "/Productos"
+
+<h1>Tutorial: Crear una app Blazor WebAssembly con Clean Architecture</h1>
+
+<p>En este tutorial explicamos cómo construir una aplicación usando:</p>
+
+<ul>
+    <li>Blazor WebAssembly</li>
+    <li>Arquitectura Onion</li>
+    <li>Inyección de dependencias</li>
+</ul>
+
+<h2>Paso 1: Crear la solución</h2>
+<p>Desde Visual Studio, selecciona "Aplicación web Blazor", tipo WebAssembly...</p>
+
+<h2>Paso 2: Estructurar la arquitectura</h2>
+<p>La solución contiene 5 proyectos:</p>
+
+<ol>
+    <li><strong>Domain</strong>: define entidades como <code>Producto</code></li>
+    <li><strong>Application</strong>: define interfaces como <code>IProductoService</code></li>
+    <li><strong>Infrastructure</strong>: implementa <code>ProductoService</code></li>
+    <li><strong>UI.Client</strong>: frontend Blazor WASM</li>
+    <li><strong>UI</strong>: host ASP.NET Core</li>
+</ol>
+
+<h2>Código de ejemplo:</h2>
+
+<pre><code class="language-csharp">
+public class Producto
+{
+    public int Id { get; set; }
+    public string Nombre { get; set; }
+    public decimal Precio { get; set; }
+}
+</code></pre>
+
+<p>Luego lo consumimos desde un servicio inyectado en Blazor.</p>
+
+<h2>Resultado</h2>
+<p>Al acceder a <code>/productos</code> vemos:</p>
+<img src="tutorial_resultado.png" alt="Pantalla de ejemplo" style="max-width:100%;" />
+
+<p>Y así completamos el ejemplo base.</p>
+

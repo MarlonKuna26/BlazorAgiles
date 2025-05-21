@@ -1,0 +1,15 @@
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\bin\Debug\net8.0\BlazorAplicacionAgiles.Application.deps.json
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\bin\Debug\net8.0\BlazorAplicacionAgiles.Application.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\bin\Debug\net8.0\BlazorAplicacionAgiles.Application.pdb
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\bin\Debug\net8.0\BlazorAplicacionAgiles.Domain.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\bin\Debug\net8.0\BlazorAplicacionAgiles.Domain.pdb
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\obj\Debug\net8.0\BlazorAplicacionAgiles.Application.csproj.AssemblyReference.cache
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\obj\Debug\net8.0\BlazorAplicacionAgiles.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\obj\Debug\net8.0\BlazorAplicacionAgiles.Application.AssemblyInfoInputs.cache
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\obj\Debug\net8.0\BlazorAplicacionAgiles.Application.AssemblyInfo.cs
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\obj\Debug\net8.0\BlazorAplicacionAgiles.Application.csproj.CoreCompileInputs.cache
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\obj\Debug\net8.0\BlazorAp.9828D8F7.Up2Date
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\obj\Debug\net8.0\BlazorAplicacionAgiles.Application.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\obj\Debug\net8.0\refint\BlazorAplicacionAgiles.Application.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\obj\Debug\net8.0\BlazorAplicacionAgiles.Application.pdb
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Application\obj\Debug\net8.0\ref\BlazorAplicacionAgiles.Application.dll

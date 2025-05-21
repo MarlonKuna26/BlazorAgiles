@@ -1,0 +1,11 @@
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\bin\Debug\net8.0\BlazorAplicacionAgiles.Domain.deps.json
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\bin\Debug\net8.0\BlazorAplicacionAgiles.Domain.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\bin\Debug\net8.0\BlazorAplicacionAgiles.Domain.pdb
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\obj\Debug\net8.0\BlazorAplicacionAgiles.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\obj\Debug\net8.0\BlazorAplicacionAgiles.Domain.AssemblyInfoInputs.cache
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\obj\Debug\net8.0\BlazorAplicacionAgiles.Domain.AssemblyInfo.cs
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\obj\Debug\net8.0\BlazorAplicacionAgiles.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\obj\Debug\net8.0\BlazorAplicacionAgiles.Domain.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\obj\Debug\net8.0\refint\BlazorAplicacionAgiles.Domain.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\obj\Debug\net8.0\BlazorAplicacionAgiles.Domain.pdb
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Domain\obj\Debug\net8.0\ref\BlazorAplicacionAgiles.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\bin\Debug\net8.0\BlazorAplicacionAgiles.Infrastructure.deps.json
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\bin\Debug\net8.0\BlazorAplicacionAgiles.Infrastructure.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\bin\Debug\net8.0\BlazorAplicacionAgiles.Infrastructure.pdb
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\bin\Debug\net8.0\BlazorAplicacionAgiles.Application.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\bin\Debug\net8.0\BlazorAplicacionAgiles.Domain.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\bin\Debug\net8.0\BlazorAplicacionAgiles.Application.pdb
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\bin\Debug\net8.0\BlazorAplicacionAgiles.Domain.pdb
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\obj\Debug\net8.0\BlazorAplicacionAgiles.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\obj\Debug\net8.0\BlazorAplicacionAgiles.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\obj\Debug\net8.0\BlazorAplicacionAgiles.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\obj\Debug\net8.0\BlazorAplicacionAgiles.Infrastructure.AssemblyInfo.cs
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\obj\Debug\net8.0\BlazorAplicacionAgiles.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\obj\Debug\net8.0\BlazorAp.DBBD9220.Up2Date
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\obj\Debug\net8.0\BlazorAplicacionAgiles.Infrastructure.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\obj\Debug\net8.0\refint\BlazorAplicacionAgiles.Infrastructure.dll
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\obj\Debug\net8.0\BlazorAplicacionAgiles.Infrastructure.pdb
+C:\Users\MARLON\source\repos\BlazorAplicacionAgiles\BlazorAplicacionAgiles.Infrastructure\obj\Debug\net8.0\ref\BlazorAplicacionAgiles.Infrastructure.dll
